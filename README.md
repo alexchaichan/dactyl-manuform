@@ -8,9 +8,21 @@ For any Information check out the original repos.
 
 I decided myself for a 5x6 60% Layout and took the blueprint from the forked repositorie.
 
-![left](left-5x6.stl)
+<details close>
 
-![right](right-5x6.stl)
+ <summary>switches</summary>
+
+ ![left](left-5x6.stl)
+
+</details>
+
+<details close>
+
+ <summary>switches</summary>
+
+ ![right](right-5x6.stl)
+
+</details>
 
 The pices got printed by [Brandl Computer](https://brandlcomputer.de/3d-druck/)
 
