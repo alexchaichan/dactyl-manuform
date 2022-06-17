@@ -28,12 +28,12 @@ For any Information check out the original repos.
 
 | Components | Quantity | Notes |
 |:----------------:|:------:|:---:|
-| [M3 screws](1) | 10 | note
-| [Amoeba PCBs](1) | 1 | note
-| [Elite-C](1) | | 1
-| [TRRS Jack](1) | | 1
-| [Diodes](1) | 1 | note
-| [Reset Switch](1) | 1 | note
+| [M3 screws] | 10 | note
+| [Amoeba PCBs] | 1 | note
+| [Elite-C] | | 1
+| [TRRS Jack] | | 1
+| [High Speed Silizium Diode Diotec 1N4148 150mA 75V 4ns 200°C](https://www.ebay-kleinanzeigen.de/s-anzeige/40x-high-speed-silizium-diode-diotec-1n4148-150ma-75v-4ns-200-c/464070803-172-18783) | 100 | just get a few for spare
+| [Reset Switch] | 1 | note
 
 # Building
 
