@@ -4,22 +4,13 @@ I will just describe all the steps I have taken to build this keyboard.
 
 For any Information check out the original repos.
 
-# Step One
+# Preperation
 
-## Helpful Guides / Videos
+## Case
 
-- could be used as an intro
+## switches
 
-https://www.youtube.com/watch?v=CxNKWNKBLMs
-
-- very detailed guide to build one half unfortunately the parts for the second half are missing
-
-[part 1](https://www.youtube.com/watch?v=dWC_8BOArzc)
-[part 2](https://www.youtube.com/watch?v=fDc6rjZGYiI)
-[part 3](https://www.youtube.com/watch?v=r-CKnaoSmCk)
-[part 4](https://www.youtube.com/watch?v=Oloh3Yabu6I)
-
-[Time Lapse](https://www.youtube.com/watch?v=jImOY9Bgv74) (very clean wireing)
+## Keycaps
 
 # Material List
 
@@ -35,19 +26,35 @@ https://www.youtube.com/watch?v=CxNKWNKBLMs
 
 ## Components
 
-| Components | Quantity | Notes 
-|---------------:+:--------:+:-----------
-| [M3 screws](1) | 10 | 5 each side
+| Components | Quantity | Notes
+|------------------:+:--------:|
+| [M3 screws](1) | 10 |
 | [Amoeba PCBs](1) | 1 | note
-| [Elite-C](1) | | 1  | note
-| [TRRS Jack](1) | | 1 | note
+| [Elite-C](1) | | 1
+| [TRRS Jack](1) | | 1
 | [Diodes](1) | 1 | note
 | [Reset Switch](1) | 1 | note
- 
+
 # Building
 
 ## Wireing
 
+# Apendix
+
+## Helpful Guides / Videos
+
+- could be used as an intro
+
+https://www.youtube.com/watch?v=CxNKWNKBLMs
+
+- very detailed guide to build one half unfortunately the parts for the second half are missing
+
+[part 1](https://www.youtube.com/watch?v=dWC_8BOArzc)
+[part 2](https://www.youtube.com/watch?v=fDc6rjZGYiI)
+[part 3](https://www.youtube.com/watch?v=r-CKnaoSmCk)
+[part 4](https://www.youtube.com/watch?v=Oloh3Yabu6I)
+
+[Time Lapse](https://www.youtube.com/watch?v=jImOY9Bgv74) (very clean wireing)
 # [Next Project](https://www.youtube.com/watch?v=MEuKa5OjU8g)
 
 - https://bastardkb.com/open-source/
