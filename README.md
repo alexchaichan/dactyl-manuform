@@ -12,11 +12,8 @@ For any Information check out the original repos.
 
 CHERRY MX BLUE
 
-DESCRIPTION
-
 The characteristic of this tactile switch is featured by tactile and audible feedback. Thanks to the striking "click", the CHERRY MX Blue not only provides noticeable, but also acoustic feedback. The switch with the CHERRY MX click technology is thus establishes itself as a courageous choice.
 
-TECHNICAL DATA:
 - Tactile and audible switching characteristics
 - 60 cN operating force
 - 2.2 mm pre travel
