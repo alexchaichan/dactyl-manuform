@@ -6,6 +6,12 @@ For any Information check out the original repos.
 
 # Case
 
+I decided myself for a 5x6 60% Layout and took the blueprint from the forked repositorie.
+
+![left](left-5x6.stl)
+
+![right](right-5x6.stl)
+
 The Pice got printed by
 
 [Brandl Computer](https://brandlcomputer.de/3d-druck/)
