@@ -10,6 +10,10 @@ For any Information check out the original repos.
 
 ## switches
 
+[Cherry MX Blue](https://www.cherrymx.de/en/cherry-mx/mx-original/mx-blue.html)
+
+![caps](https://www.cherrymx.de/_Resources/Persistent/8/2/e/0/82e048237373b7ff396b8f766abeaa21f116a942/GIF_MXRGB_Blue.gif)
+
 ## Keycaps
 
 # Material List
