@@ -12,13 +12,19 @@ For any Information check out the original repos.
 
 <details close>
 
- <summary>click to collapse</summary>
+ <summary>switches</summary>
 
  ![switches](img-explosion-mxblue.png)
 
 </details>
 
+<details close>
+
+ <summary>mechanics</summary>
+
 ![switches_gif](GIF_MXRGB_Blue.gif)
+
+</details>
 
 ## Keycaps
 
