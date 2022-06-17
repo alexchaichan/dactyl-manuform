@@ -12,9 +12,7 @@ I decided myself for a 5x6 60% Layout and took the blueprint from the forked rep
 
 ![right](right-5x6.stl)
 
-The Pice got printed by
-
-[Brandl Computer](https://brandlcomputer.de/3d-druck/)
+The pices got printed by [Brandl Computer](https://brandlcomputer.de/3d-druck/)
 
 # Switches [Cherry MX Blue](https://www.cherrymx.de/en/cherry-mx/mx-original/mx-blue.html)
 
@@ -109,3 +107,4 @@ Copyright © 2015-2017 Matthew Adereth and Tom Short
 The source code for generating the models (everything excluding the [things/](things/) and [resources/](resources/) directories is distributed under the [GNU AFFERO GENERAL PUBLIC LICENSE Version 3](LICENSE).
 
 The generated models and PCB designs are distributed under the [Creative Commons Attribution-NonCommercial-ShareAlike License Version 3.0](LICENSE-models).
+
