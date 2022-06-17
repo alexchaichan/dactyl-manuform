@@ -26,14 +26,14 @@ For any Information check out the original repos.
 
 ## Components
 
-| Components | Quantity | Notes |
-|:----------------:|:------:|:---:|
-| [M3 screws] | 10 | note
-| [Amoeba PCBs] | 1 | note
-| [Elite-C] | | 1
-| [TRRS Jack] | | 1
-| [High Speed Silizium Diode Diotec 1N4148 150mA 75V 4ns 200°C](https://www.ebay-kleinanzeigen.de/s-anzeige/40x-high-speed-silizium-diode-diotec-1n4148-150ma-75v-4ns-200-c/464070803-172-18783) | 100 | just get a few for spare
-| [Reset Switch] | 1 | note
+| Components | Quantity
+|:----------------:|:------
+| [M3 screws] | 10
+| [Arduino Pro Micro 5V ATMEGA32U4 16 Mhz](https://paradisetronic.com/en/arduino/pro-micro-module-atmega32u4-5v-16mhz-arduino-compatible) | 1
+| [TRRS Jack] | 2
+| [TRRS Cable] | 1
+| [High Speed Silizium Diode Diotec 1N4148 150mA 75V 4ns 200°C](https://www.conrad.de/de/p/diotec-ultraschnelle-si-diode-1n4148-sod-27-75-v-150-ma-162280.html) | 100
+| [Reset Switch] | 1
 
 # Building
 
