@@ -10,7 +10,13 @@ For any Information check out the original repos.
 
 ## switches [Cherry MX Blue](https://www.cherrymx.de/en/cherry-mx/mx-original/mx-blue.html)
 
-![switches](img-explosion-mxblue.png)
+<details open>
+
+ <summary>click to collapse</summary>
+
+ ![switches](img-explosion-mxblue.png)
+
+</details>
 
 ![switches_gif](GIF_MXRGB_Blue.gif)
 
