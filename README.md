@@ -4,11 +4,21 @@ I will just describe all the steps I have taken to build this keyboard.
 
 For any Information check out the original repos.
 
-# Preperation
+# Case
 
-## Case
+The Pice got printed by
 
-## switches [Cherry MX Blue](https://www.cherrymx.de/en/cherry-mx/mx-original/mx-blue.html)
+[Brandl Computer](https://brandlcomputer.de/3d-druck/)
+
+# Switches [Cherry MX Blue](https://www.cherrymx.de/en/cherry-mx/mx-original/mx-blue.html)
+
+<!-- <details close> -->
+<!---->
+<!-- <summary>case</summary> -->
+<!---->
+<!-- ![case1](png) -->
+<!---->
+<!-- </details> -->
 
 CHERRY MX BLUE
 
@@ -36,25 +46,24 @@ The characteristic of this tactile switch is featured by tactile and audible fee
 
 </details>
 
-## Keycaps
+# Keycaps
 
 # Material List
 
 ## Tools
 
-- soldering iron / lötkoblen
-- solder wire
-- fan carbon filter / mask ?
-- seitenschneider / flushcutters
-- abisolierzange
-- silcion wire (flexebility)
-- pinzette
+- Soldering Iron
+- Solder Wire
+- Flushcutters
+- Wire Stripper
+- Tweezers
 
 ## Components
 
 | Components | Quantity
 | :----------------: | :------
-| [M3 screws] | 10
+| [M3 Screws & Nuts]() | 10
+| [Isolating Tape]() | 1
 | [Arduino Pro Micro 5V ATMEGA32U4 16 Mhz](https://paradisetronic.com/en/arduino/pro-micro-module-atmega32u4-5v-16mhz-arduino-compatible) | 2
 | [TRRS Jack](https://de.aliexpress.com/item/1005003763657242.html?spm=a2g0o.productlist.0.0.70b25feasvKbZ5&algo_pvid=36d94b92-7dff-4265-a678-00b574e233b7&aem_p4p_detail=202206170914193453435950843480003679084&algo_exp_id=36d94b92-7dff-4265-a678-00b574e233b7-9&pdp_ext_f=%7B%22sku_id%22%3A%2212000027083751167%22%7D&pdp_npi=2%40dis%21EUR%21%210.53%21%21%211.79%21%21%402100bdd516554824589573378e08c4%2112000027083751167%21sea) | 2
 | [TRRS Cable](https://www.aliexpress.com/item/1005003278395267.html?spm=a2g0o.order_list.0.0.45eb5c5fqV8E9U) | 1
