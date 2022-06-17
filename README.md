@@ -26,14 +26,14 @@ For any Information check out the original repos.
 
 ## Components
 
-|     Components    | Quantity | Notes
-|:-----------------:+:--------:|
-|   [M3 screws](1)  |    10    | note
-|  [Amoeba PCBs](1) |     1    | note
-|    [Elite-C](1)   |          | 1
-|   [TRRS Jack](1)  |          | 1
-|    [Diodes](1)    |     1    | note
-| [Reset Switch](1) |     1    | note
+| Components | Quantity | Notes |
+|:-----------------:+:--------:+:-----:|
+| [M3 screws](1) | 10 | note
+| [Amoeba PCBs](1) | 1 | note
+| [Elite-C](1) | | 1
+| [TRRS Jack](1) | | 1
+| [Diodes](1) | 1 | note
+| [Reset Switch](1) | 1 | note
 
 # Building
 
