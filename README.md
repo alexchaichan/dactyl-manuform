@@ -27,13 +27,15 @@ For any Information check out the original repos.
 ## Components
 
 | Components | Quantity
-|:----------------:|:------
+| :----------------: | :------
 | [M3 screws] | 10
 | [Arduino Pro Micro 5V ATMEGA32U4 16 Mhz](https://paradisetronic.com/en/arduino/pro-micro-module-atmega32u4-5v-16mhz-arduino-compatible) | 1
-| [TRRS Jack] | 2
-| [TRRS Cable] | 1
+| [TRRS Jack](https://de.aliexpress.com/item/1005003763657242.html?spm=a2g0o.productlist.0.0.70b25feasvKbZ5&algo_pvid=36d94b92-7dff-4265-a678-00b574e233b7&aem_p4p_detail=202206170914193453435950843480003679084&algo_exp_id=36d94b92-7dff-4265-a678-00b574e233b7-9&pdp_ext_f=%7B%22sku_id%22%3A%2212000027083751167%22%7D&pdp_npi=2%40dis%21EUR%21%210.53%21%21%211.79%21%21%402100bdd516554824589573378e08c4%2112000027083751167%21sea) | 2
+| [TRRS Cable](https://www.aliexpress.com/item/1005003278395267.html?spm=a2g0o.order_list.0.0.45eb5c5fqV8E9U) | 1
 | [High Speed Silizium Diode Diotec 1N4148 150mA 75V 4ns 200°C](https://www.conrad.de/de/p/diotec-ultraschnelle-si-diode-1n4148-sod-27-75-v-150-ma-162280.html) | 100
-| [Reset Switch] | 1
+| [Reset Switch](https://de.aliexpress.com/item/1005004001434474.html?spm=a2g0o.order_list.0.0.1d535c5fS50riU&gatewayAdapt=glo2deu) | 2
+| [Micro USB to USB-C](https://www.aliexpress.com/item/1005002393327659.html?spm=a2g0o.order_list.0.0.383d5c5fEJYPPc) | 1
+| [Wire](https://www.aliexpress.com/item/32825558073.html?spm=a2g0o.order_list.0.0.383d5c5fEJYPPc) | 20
 
 # Building
 
