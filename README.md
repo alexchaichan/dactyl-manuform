@@ -8,11 +8,11 @@ For any Information check out the original repos.
 
 ## Case
 
-## switches
+## switches [Cherry MX Blue](https://www.cherrymx.de/en/cherry-mx/mx-original/mx-blue.html)
 
-[Cherry MX Blue](https://www.cherrymx.de/en/cherry-mx/mx-original/mx-blue.html)
+![switches](img-explosion-mxblue@2x-678x1250.pgn)
 
-![caps](GIF_MXRGB_Blue.gif)
+![switches_gif](GIF_MXRGB_Blue.gif)
 
 ## Keycaps
 
