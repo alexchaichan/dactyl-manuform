@@ -38,12 +38,12 @@ https://www.youtube.com/watch?v=CxNKWNKBLMs
 | Components | Quantity | Notes |
 |---------------:+:--------:+:-----------:|
 | [M3 screws] | 10 | 5 each side
-| [Amoeba PCBs] |
-| [Elite-C] |
-| [TRRS Jack] |
-| [Diodes] |
-| [Reset Switch] |
-
+| [Amoeba PCBs] | 1 |
+| [Elite-C] | | 1
+| [TRRS Jack] | | 1
+| [Diodes] | 1 | 
+| [Reset Switch] | 1 |
+ 
 # Building
 
 ## Wireing
