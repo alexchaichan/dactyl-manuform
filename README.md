@@ -10,7 +10,7 @@ For any Information check out the original repos.
 
 ## switches [Cherry MX Blue](https://www.cherrymx.de/en/cherry-mx/mx-original/mx-blue.html)
 
-<details open>
+<details close>
 
  <summary>click to collapse</summary>
 
