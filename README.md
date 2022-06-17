@@ -35,8 +35,8 @@ https://www.youtube.com/watch?v=CxNKWNKBLMs
 
 ## Components
 
-| Components | Quantity | Notes |
-|---------------:+:--------:+:-----------|
+| Components | Quantity | Notes 
+|---------------:+:--------:+:-----------
 | [M3 screws](1) | 10 | 5 each side
 | [Amoeba PCBs](1) | 1 | note
 | [Elite-C](1) | | 1  | note
