@@ -1,6 +1,6 @@
 This ist a fork of [abstracthat/dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) while this is a fork of [adereth/dactyl-keyboard](https://github.com/adereth/dactyl-keyboard)
 
-I will just describe all the steps I have taken to build this keyboard.
+I will simply describe all the steps I took to build this keyboard.
 
 For any Information check out the original repos.
 
