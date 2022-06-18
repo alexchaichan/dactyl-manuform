@@ -18,15 +18,9 @@ I decided myself for a 5x6 60% Layout and took the blueprint from the forked rep
 
 The pices got printed by [Brandl Computer](https://brandlcomputer.de/3d-druck/)
 
-# Switches [Cherry MX Blue](https://www.cherrymx.de/en/cherry-mx/mx-original/mx-blue.html)
+The printing is in progress. The results are comming soon
 
-<!-- <details close> -->
-<!---->
-<!-- <summary>case</summary> -->
-<!---->
-<!-- ![case1](png) -->
-<!---->
-<!-- </details> -->
+# Switches [Cherry MX Blue](https://www.cherrymx.de/en/cherry-mx/mx-original/mx-blue.html)
 
 CHERRY MX BLUE
 
