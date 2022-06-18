@@ -60,11 +60,35 @@ The characteristic of this tactile switch is featured by tactile and audible fee
 
 ## Tools
 
-- Soldering Iron
-- Solder Wire
-- Flushcutters
-- Wire Stripper
-- Tweezers
+<details close>
+
+ <summary>Soldering Iron</summary>
+
+</details>
+
+<details close>
+
+ <summary>Soldering Wire</summary>
+
+</details>
+
+<details close>
+
+ <summary>Flushcutters</summary>
+
+</details>
+
+<details close>
+
+ <summary>Wire Strippers</summary>
+
+</details>
+
+<details close>
+
+ <summary>Tweezers</summary>
+
+</details>
 
 ## Components
 
