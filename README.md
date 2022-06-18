@@ -64,11 +64,15 @@ The characteristic of this tactile switch is featured by tactile and audible fee
 
  <summary>Soldering Iron</summary>
 
+ ![commingsoon]()
+
 </details>
 
 <details close>
 
  <summary>Soldering Wire</summary>
+
+ ![commingsoon]()
 
 </details>
 
@@ -76,17 +80,23 @@ The characteristic of this tactile switch is featured by tactile and audible fee
 
  <summary>Flushcutters</summary>
 
+ ![commingsoon]()
+
 </details>
 
 <details close>
 
  <summary>Wire Strippers</summary>
 
+ ![commingsoon]()
+
 </details>
 
 <details close>
 
  <summary>Tweezers</summary>
+
+ ![commingsoon]()
 
 </details>
 
