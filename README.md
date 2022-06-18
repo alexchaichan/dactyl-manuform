@@ -40,7 +40,7 @@ The characteristic of this tactile switch is featured by tactile and audible fee
 
 <details close>
 
- <summary>switches</summary>
+ <summary>Switches</summary>
 
  ![switches](img-explosion-mxblue.png)
 
@@ -48,7 +48,7 @@ The characteristic of this tactile switch is featured by tactile and audible fee
 
 <details close>
 
- <summary>mechanics</summary>
+ <summary>Mechanics</summary>
 
 ![switches_gif](GIF_MXRGB_Blue.gif)
 
@@ -149,6 +149,14 @@ https://www.youtube.com/watch?v=jImOY9Bgv74
 [part 3](https://www.youtube.com/watch?v=r-CKnaoSmCk)
 
 [part 4](https://www.youtube.com/watch?v=Oloh3Yabu6I)
+
+</details>
+
+<details close>
+
+ <summary>PCB Build</summary>
+
+https://www.youtube.com/watch?v=Y57lNIpAdT4
 
 </details>
 
