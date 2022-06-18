@@ -88,18 +88,36 @@ The characteristic of this tactile switch is featured by tactile and audible fee
 
 ## Helpful Guides / Videos
 
-- could be used as an intro
+<details close>
+
+ <summary>Intro</summary>
 
 https://www.youtube.com/watch?v=CxNKWNKBLMs
 
-- very detailed guide to build one half unfortunately the parts for the second half are missing
+</details>
+
+<details close>
+
+ <summary>Time Lapse</summary>
+
+https://www.youtube.com/watch?v=jImOY9Bgv74
+
+</details>
+
+<details close>
+
+ <summary>Build Stream</summary>
 
 [part 1](https://www.youtube.com/watch?v=dWC_8BOArzc)
+
 [part 2](https://www.youtube.com/watch?v=fDc6rjZGYiI)
+
 [part 3](https://www.youtube.com/watch?v=r-CKnaoSmCk)
+
 [part 4](https://www.youtube.com/watch?v=Oloh3Yabu6I)
 
-[Time Lapse](https://www.youtube.com/watch?v=jImOY9Bgv74) (very clean wireing)
+</details>
+
 # [Next Project](https://www.youtube.com/watch?v=MEuKa5OjU8g)
 
 - https://bastardkb.com/open-source/
