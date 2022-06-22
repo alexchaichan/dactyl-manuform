@@ -20,6 +20,10 @@ The pices got printed by [Brandl Computer](https://brandlcomputer.de/3d-druck/)
 
 The printing is in progress. The results are comming soon
 
+## Hot Swap Sockets
+
+https://github.com/stingray127/handwirehotswap/tree/main/Matrix
+
 # Switches [Cherry MX Blue](https://www.cherrymx.de/en/cherry-mx/mx-original/mx-blue.html)
 
 CHERRY MX BLUE
@@ -115,6 +119,14 @@ The characteristic of this tactile switch is featured by tactile and audible fee
 # Apendix
 
 ## Helpful Guides / Videos
+
+<details close>
+
+ <summary>nice build</summary>
+
+https://arnmk.com/building-a-dactyl-manuform-with-hot-swappable-sockets/
+
+</details>
 
 <details close>
 
