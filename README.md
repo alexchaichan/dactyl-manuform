@@ -116,6 +116,18 @@ The characteristic of this tactile switch is featured by tactile and audible fee
 
 ## Wireing
 
+# Flashing
+
+[qmk](https://qmk.fm/)
+
+[Online Configurator](https://config.qmk.fm/)
+
+```
+brew tap qmk/qmk
+
+brew install qmk
+```
+
 # Apendix
 
 ## Helpful Guides / Videos
