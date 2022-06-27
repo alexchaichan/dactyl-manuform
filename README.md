@@ -10,11 +10,11 @@ I decided myself for a 5x6 60% Layout and took the blueprint from the forked rep
 
 ![left](left-5x6.stl)
 
-![left_plate](commingsoon)
+![left_plate](left-5x6-plate.STL)
 
 ![right](right-5x6.stl)
 
-![right_plate](commingsoon)
+![right_plate](right-5x6-plate.STL)
 
 The pices got printed by [Brandl Computer](https://brandlcomputer.de/3d-druck/)
 
