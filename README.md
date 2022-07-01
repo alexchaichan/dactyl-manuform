@@ -52,6 +52,8 @@ The characteristic of this tactile switch is featured by tactile and audible fee
 
 </details>
 
+I highly recommend checking each switch with a multimeter, depending on how the keyboard is built there is no longer the possibility to change the switches!
+
 # Keycaps
 
 # Material List
