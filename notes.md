@@ -1,0 +1,3 @@
+- next step:
+  - trrs jack
+  -  https://www.youtube.com/watch?v=vLsgsmZssuk 02:55
