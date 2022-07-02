@@ -153,7 +153,7 @@ qmk compile -kb handwired/dactyl_manuform/6x6 -km custom
 - Unplug the cable, and plug it into the right half. Follow the same instructions above.
 - Unplug the cable, and plug it back into the left half. You’re done!
 
-# Apendix
+# Appendix
 
 ## Helpful Guides / Videos
 
