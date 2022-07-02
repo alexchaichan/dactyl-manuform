@@ -157,6 +157,8 @@ qmk compile -kb handwired/dactyl_manuform/6x6 -km custom
 
 ## Helpful Guides / Videos
 
+https://medium.com/swlh/complete-idiot-guide-for-building-a-dactyl-manuform-keyboard-53454845b065
+
 <details close>
 
  <summary>nice build</summary>
