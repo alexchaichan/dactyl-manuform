@@ -137,19 +137,16 @@ fi
 qmk setup
 # git clone https://github.com/qmk/qmk_firmware
 
-# copy the keymap
-cp -r ~/repositories/dactyl-manuform/qmk_firmware/keyboards/handwired/dactyl_manuform/5x6/keymaps/custom ~/qmk_firmware/keyboard/handwired/dactyl-manuform/5x6/keymaps/custom
-
 # navigate into firmware-directory
 cd ~/qmk_firmware
 
 # compile the firmware .hex file
-qmk compile -kb handwired/dactyl_manuform/6x6 -km custom
+qmk compile -kb handwired/dactyl_manuform/6x6 -km default
 ```
 
 - Plug the USB cable into the left half of the Dactyl.
 - Push the hardware *reset* button.
-- Run `qmk flash -kb handwired/dactyl_manuform/5x6 -km custom`
+- Run `qmk flash -kb handwired/dactyl_manuform/6x6 -km default`
 - Unplug the cable, and plug it into the right half. Follow the same instructions above.
 - Unplug the cable, and plug it back into the left half. You’re done!
 
