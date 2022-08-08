@@ -141,12 +141,12 @@ qmk setup
 cd ~/qmk_firmware
 
 # compile the firmware .hex file
-qmk compile -kb handwired/dactyl_manuform/6x6 -km default
+qmk compile -kb handwired/dactyl_manuform/5x6 -km custom
 ```
 
 - Plug the USB cable into the left half of the Dactyl.
 - Push the hardware *reset* button.
-- Run `qmk flash -kb handwired/dactyl_manuform/6x6 -km default`
+- Run `qmk flash -kb handwired/dactyl_manuform/5x6 -km custom`
 - Unplug the cable, and plug it into the right half. Follow the same instructions above.
 - Unplug the cable, and plug it back into the left half. You’re done!
 
