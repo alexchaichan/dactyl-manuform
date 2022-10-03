@@ -206,6 +206,10 @@ https://www.youtube.com/watch?v=Y57lNIpAdT4
 
 - https://bastardkb.com/open-source/
 
+___
+
+[keyboard tester](https://www.keyboardtester.com/tester.html)
+
 # License
 
 Copyright © 2015-2017 Matthew Adereth and Tom Short
