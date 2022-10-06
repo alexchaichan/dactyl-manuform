@@ -4,6 +4,8 @@ I will simply describe all the steps I took to build this keyboard.
 
 For any information check out the original repos.
 
+![done](78289817-FAA9-4C66-9B24-33F0E7D7FB70.jpg)
+
 # Case
 
 I decided myself for a 5x6 60% Layout and took the blueprint from the forked repositorie.
