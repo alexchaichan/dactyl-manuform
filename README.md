@@ -120,6 +120,10 @@ I highly recommend checking each switch with a multimeter, depending on how the 
 
 ## Wireing
 
+![Wireing1](download.jpg)
+
+![Wireing1](Wiring-Diagram-1.svg)
+
 # Flashing
 
 [qmk](https://qmk.fm/)
