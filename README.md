@@ -2,7 +2,7 @@ This ist a fork of [abstracthat/dactyl-manuform](https://github.com/abstracthat/
 
 I will simply describe all the steps I took to build this keyboard.
 
-For any Information check out the original repos.
+For any information check out the original repos.
 
 # Case
 
