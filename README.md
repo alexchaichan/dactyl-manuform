@@ -4,7 +4,7 @@ I will simply describe all the steps I took to build this keyboard.
 
 For any information check out the original repos.
 
-![done](78289817-FAA9-4C66-9B24-33F0E7D7FB70.jpg)
+![done](IMG_1856.JPG)
 
 # Case
 
