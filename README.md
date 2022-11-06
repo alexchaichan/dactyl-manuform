@@ -164,8 +164,6 @@ https://www.youtube.com/watch?v=Y57lNIpAdT4
 
 </details>
 
-# [Next Project](https://www.youtube.com/watch?v=MEuKa5OjU8g)
-
 - https://bastardkb.com/open-source/
 
 ___
