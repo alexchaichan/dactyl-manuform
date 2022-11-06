@@ -20,8 +20,6 @@ I decided myself for a 5x6 60% Layout and took the blueprint from the forked rep
 
 The pices got printed by [Brandl Computer](https://brandlcomputer.de/3d-druck/)
 
-The printing is in progress. The results are comming soon
-
 ## Hot Swap Sockets
 
 https://github.com/stingray127/handwirehotswap/tree/main/Matrix
@@ -59,48 +57,6 @@ I highly recommend checking each switch with a multimeter, depending on how the 
 # Keycaps
 
 # Material List
-
-## Tools
-
-<details close>
-
- <summary>Soldering Iron</summary>
-
- ![commingsoon]()
-
-</details>
-
-<details close>
-
- <summary>Soldering Wire</summary>
-
- ![commingsoon]()
-
-</details>
-
-<details close>
-
- <summary>Flushcutters</summary>
-
- ![commingsoon]()
-
-</details>
-
-<details close>
-
- <summary>Wire Strippers</summary>
-
- ![commingsoon]()
-
-</details>
-
-<details close>
-
- <summary>Tweezers</summary>
-
- ![commingsoon]()
-
-</details>
 
 ## Components
 
