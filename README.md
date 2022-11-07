@@ -92,7 +92,7 @@ if [[ "$(uname)" == "Darwin" ]]; then
     brew tap qmk/qmk
     brew install qmk
 elif [[ "$(expr substr $(uname -s) 1 5)" == "Linux" ]]; then
-    sudo pacm -S qmk
+    sudo pacman -S qmk
 fi
 
 # creating the firmware-repositorie
