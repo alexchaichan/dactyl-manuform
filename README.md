@@ -10,14 +10,6 @@ For any information check out the original repos.
 
 I decided myself for a 5x6 60% Layout and took the blueprint from the forked repositorie.
 
-![left](left-5x6.stl)
-
-![left_plate](left-5x6-plate.STL)
-
-![right](right-5x6.stl)
-
-![right_plate](right-5x6-plate.STL)
-
 The pices got printed by [Brandl Computer](https://brandlcomputer.de/3d-druck/)
 
 ## Hot Swap Sockets
@@ -112,57 +104,7 @@ qmk compile -kb handwired/dactyl_manuform/5x6 -km custom
 - Unplug the cable, and plug it into the right half. Follow the same instructions above.
 - Unplug the cable, and plug it back into the left half. You’re done!
 
-# Appendix
-
-## Helpful Guides / Videos
-
-https://medium.com/swlh/complete-idiot-guide-for-building-a-dactyl-manuform-keyboard-53454845b065
-
-<details close>
-
- <summary>nice build</summary>
-
-https://arnmk.com/building-a-dactyl-manuform-with-hot-swappable-sockets/
-
-</details>
-
-<details close>
-
- <summary>Intro</summary>
-
-https://www.youtube.com/watch?v=CxNKWNKBLMs
-
-</details>
-
-<details close>
-
- <summary>Time Lapse</summary>
-
-https://www.youtube.com/watch?v=jImOY9Bgv74
-
-</details>
-
-<details close>
-
- <summary>Build Stream</summary>
-
-[part 1](https://www.youtube.com/watch?v=dWC_8BOArzc)
-
-[part 2](https://www.youtube.com/watch?v=fDc6rjZGYiI)
-
-[part 3](https://www.youtube.com/watch?v=r-CKnaoSmCk)
-
-[part 4](https://www.youtube.com/watch?v=Oloh3Yabu6I)
-
-</details>
-
-<details close>
-
- <summary>PCB Build</summary>
-
-https://www.youtube.com/watch?v=Y57lNIpAdT4
-
-</details>
+___
 
 - https://bastardkb.com/open-source/
 
