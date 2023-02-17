@@ -106,10 +106,6 @@ qmk compile -kb handwired/dactyl_manuform/5x6 -km custom
 
 ___
 
-- https://bastardkb.com/open-source/
-
-___
-
 [keyboard tester](https://www.keyboardtester.com/tester.html)
 
 # License
