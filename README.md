@@ -1,17 +1,76 @@
 This ist a fork of [abstracthat/dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) while this is a fork of [adereth/dactyl-keyboard](https://github.com/adereth/dactyl-keyboard)
 
+I will simply describe all the steps I took to build this keyboard.
+
+For any information check out the original repos.
+
+![done](IMG_1856.JPG)
+
+# Case
+
+I decided myself for a 5x6 60% Layout and took the blueprint from the forked repositorie.
+
+The pices got printed by [Brandl Computer](https://brandlcomputer.de/3d-druck/)
 
 ## Hot Swap Sockets
 
 https://github.com/stingray127/handwirehotswap/tree/main/Matrix
 
-# Switches [GAMAKAY MECHANICAL SILENT SWITCHES (Pegasus)](https://gamakay.com/products/gamakay-35pcs-pack-gamakay-switch-linear-mechanical-phoenix-crystal-bumblebee-switch-prelubricate-keyboard-switch-for-diy-mechanical-gaming-keyboards?variant=42678166683837)
+# Switches [Cherry MX Blue](https://www.cherrymx.de/en/cherry-mx/mx-original/mx-blue.html)
 
+CHERRY MX BLUE
 
+The characteristic of this tactile switch is featured by tactile and audible feedback. Thanks to the striking "click", the CHERRY MX Blue not only provides noticeable, but also acoustic feedback. The switch with the CHERRY MX click technology is thus establishes itself as a courageous choice.
+
+- Tactile and audible switching characteristics
+- 60 cN operating force
+- 2.2 mm pre travel
+- 4.0 mm total travel
+- With click
+
+<details close>
+
+ <summary>Switches</summary>
+
+ ![switches](img-explosion-mxblue.png)
+
+</details>
+
+<details close>
+
+ <summary>Mechanics</summary>
+
+![switches_gif](GIF_MXRGB_Blue.gif)
+
+</details>
+
+I highly recommend checking each switch with a multimeter, depending on how the keyboard is built there is no longer the possibility to change the switches!
 
 # Keycaps
 
 # Material List
+
+## Components
+
+| Components | Quantity
+| :----------------: | :------
+| [M3 Screws & Nuts]() | 10
+| [Isolating Tape]() | 1
+| [Arduino Pro Micro 5V ATMEGA32U4 16 Mhz](https://paradisetronic.com/en/arduino/pro-micro-module-atmega32u4-5v-16mhz-arduino-compatible) | 2
+| [TRRS Jack](https://de.aliexpress.com/item/1005003763657242.html?spm=a2g0o.productlist.0.0.70b25feasvKbZ5&algo_pvid=36d94b92-7dff-4265-a678-00b574e233b7&aem_p4p_detail=202206170914193453435950843480003679084&algo_exp_id=36d94b92-7dff-4265-a678-00b574e233b7-9&pdp_ext_f=%7B%22sku_id%22%3A%2212000027083751167%22%7D&pdp_npi=2%40dis%21EUR%21%210.53%21%21%211.79%21%21%402100bdd516554824589573378e08c4%2112000027083751167%21sea) | 2
+| [TRRS Cable](https://www.aliexpress.com/item/1005003278395267.html?spm=a2g0o.order_list.0.0.45eb5c5fqV8E9U) | 1
+| [High Speed Silizium Diode Diotec 1N4148 150mA 75V 4ns 200°C](https://www.conrad.de/de/p/diotec-ultraschnelle-si-diode-1n4148-sod-27-75-v-150-ma-162280.html) | 100
+| [Reset Switch](https://de.aliexpress.com/item/1005004001434474.html?spm=a2g0o.order_list.0.0.1d535c5fS50riU&gatewayAdapt=glo2deu) | 2
+| [Micro USB to USB-C](https://www.aliexpress.com/item/1005002393327659.html?spm=a2g0o.order_list.0.0.383d5c5fEJYPPc) | 1
+| [Wire](https://www.aliexpress.com/item/32825558073.html?spm=a2g0o.order_list.0.0.383d5c5fEJYPPc) | 20
+
+# Building
+
+## Wireing
+
+![Wireing1](download.jpg)
+
+![Wireing1](Wiring-Diagram-1.svg)
 
 # Flashing
 
